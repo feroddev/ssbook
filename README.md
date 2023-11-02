@@ -1,6 +1,6 @@
 # SSBook - Aplicação de Teste Front-End
 
-Bem-vindo ao projeto SSBook! Esta é uma aplicação de teste front-end criada com React. O objetivo deste projeto é fornecer uma estrutura simples para realizar testes de front-end.
+Este repositório contém a minha solução para o teste prático de desenvolvimento front-end. Neste projeto, demonstro minhas habilidades e conhecimentos em desenvolvimento web, seguindo as melhores práticas da indústria.
 
 ## Pré-requisitos
 
@@ -11,7 +11,7 @@ Certifique-se de ter Node.js e npm (gerenciador de pacotes do Node) instalados n
 1. Clone este repositório para o seu sistema local:
 
 ```bash
-git clone https://github.com/seu-usuario/ssbook.git
+git clone https://github.com/feroddev/ssbook.git
 ```
 
 2. Navegue até o diretório do projeto:
@@ -36,6 +36,8 @@ npm run dev
 
 Isso iniciará o servidor de desenvolvimento e abrirá automaticamente a aplicação em seu navegador padrão. Você poderá visualizar a aplicação em `http://localhost:3000/`. Qualquer alteração que você fizer nos arquivos fonte será automaticamente recarregada no navegador.
 
-## Contribuição
+## Considerações Finais
 
-Este projeto é um projeto de teste e não aceita contribuições.
+Agradeço a oportunidade de realizar este teste prático e estou à disposição para quaisquer esclarecimentos ou informações adicionais. Espero que minha solução atenda às expectativas e requisitos do teste.
+
+Sinta-se à vontade para entrar em contato comigo através do meu e-mail ([neath.felipe@gmail.com](mailto:neath.felipe@gmail.com)) ou do meu perfil no GitHub ([https://github.com/feroddev](https://github.com/feroddev)) para discutir qualquer aspecto da solução.
