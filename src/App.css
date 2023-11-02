@@ -1,0 +1,16 @@
+#root {
+  background-color: #F7F7F7;
+}
+
+.slick-list {
+  margin: 10px 10px 20px 10px;
+  max-height: 270px;
+}
+
+.slick-slide {
+  margin: 0 15px; 
+}
+
+.slick-track {
+  max-height: 270px;
+}
