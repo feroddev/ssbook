@@ -2,29 +2,29 @@ import * as Style from '../style/StyledBotMenu';
 
 function BotMenu() {
   return (
-    <Style.StyledContainer>
+    <Style.Container>
 
-      <Style.StyledActiveIcon>
+      <Style.ActiveIcon>
         <img src="/home-icon.svg" alt="home" />
         <span>Início</span>
-      </Style.StyledActiveIcon>
+      </Style.ActiveIcon>
 
-      <Style.StyledIcon>
+      <Style.Icon>
         <img src="/add-icon.svg" alt="add" />
         <span>Adicionar</span>
-      </Style.StyledIcon>
+      </Style.Icon>
 
-      <Style.StyledIcon>
+      <Style.Icon>
         <img src="/search-icon.svg" alt="search" />
         <span>Buscar</span>
-      </Style.StyledIcon>
+      </Style.Icon>
 
-      <Style.StyledIcon>
+      <Style.Icon>
         <img src="/fav-icon.svg" alt="favorites" />
         <span>Favoritos</span>
-      </Style.StyledIcon>
+      </Style.Icon>
 
-    </Style.StyledContainer>
+    </Style.Container>
   );
 }
 

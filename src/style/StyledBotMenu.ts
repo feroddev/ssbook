@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const StyledContainer = styled.div`
+export const Container = styled.div`
   display: flex;
   justify-content: space-around;
   width: 100vw;
@@ -16,7 +16,7 @@ export const StyledContainer = styled.div`
   }
 `;
 
-export const StyledIcon = styled.div`
+export const Icon = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -25,6 +25,6 @@ export const StyledIcon = styled.div`
   cursor: pointer;
 `;
 
-export const StyledActiveIcon = styled(StyledIcon)`
+export const ActiveIcon = styled(Icon)`
   color: #A076F2;
 `;
